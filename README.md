@@ -1,4 +1,4 @@
-# Year-1-computing-project-Hubble-constant
+# Year-1-Computing-Project-Hubble-constant
 
 This Python project calculates Hubble's constant based on observations of the redshifted Hα line from 30 different galaxies. The main outputs from the script will be a plot of velocity inferred from redshift versus distance for each galaxy and the calculated value of Hubble's constant with its uncertainty.
 
