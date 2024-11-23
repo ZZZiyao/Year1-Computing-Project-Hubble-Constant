@@ -7,3 +7,5 @@ Data Description:
 Halpha_spectral_data.csv: Contains the observed shift data for the Hα spectral line. The data is structured in 60 columns of paired entries, where each pair includes frequency in Hz and corresponding spectral intensity. There are three header rows, followed by data rows corresponding to different observations.
 
 Distance_Mpc.txt: This file contains the distances to the galaxies measured in Megaparsecs (Mpc), along with the instrument response. It consists of three columns: observation number, measured distance, and instrument response.
+
+This repository is intended for academic and personal use ONLY. 
